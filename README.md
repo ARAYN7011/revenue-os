@@ -2,9 +2,9 @@
 
 ### Every morning, each sales rep opens one screen that says what to do today, in order, and why.
 
-[![Watch the demo](https://img.shields.io/badge/▶_Watch_the_demo-product_walkthrough-D93025?style=for-the-badge)](https://drive.google.com/file/d/1mnus7z_RkMBJGuaosIH7K0V1gGZqxAvF/view)
+<a href="https://github.com/ARAYN7011/revenue-os/blob/main/assets/demo.mp4"><img src="assets/poster.jpg" alt="Play the Revenue OS demo (2 min 40 s)" width="100%"></a>
 
-**Start with the video.** It shows the product in use, the rep's day, the account briefs and the manager view. **This README is the other half:** why it exists, why it's built this way, and where the engineering is deliberate.
+**Click the player above (2 min 40 s).** It shows the product in use, the rep's day, the account briefs and the manager view. **This README is the other half:** why it exists, why it's built this way, and where the engineering is deliberate.
 
 > Built at [Fello](https://hifello.com) as lead engineer. The code is private; this is the write-up. By [Aryan Pasreja](https://www.linkedin.com/in/aryan-pasreja/).
 
